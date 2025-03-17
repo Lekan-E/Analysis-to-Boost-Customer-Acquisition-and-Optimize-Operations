@@ -95,10 +95,18 @@ Below is the yearly overview page from the Tableau dashboard and more examples a
 # Recommendations:
 Based on the uncovered insights, the following recommendations for each department have been provided:
 
-- Marketing: To enhance ridership and conversion, we recommend focusing on late afternoon promotions in July and September, targeting high-traffic stations for membership campaigns, launching winter discounts, promoting electric bikes for casual riders, and **leveraging holidays deals with exclusive offers and event-based promotions**. Lastly, send membership promotional emails after high value casual rider trips, these are trips over 32 minutes.
+_Marketing_ 
+- To enhance ridership and conversion, we recommend focusing on late afternoon promotions in July and September, targeting high-traffic stations for membership campaigns, launching winter discounts, promoting electric bikes for casual riders, and **leveraging holidays deals with exclusive offers and event-based promotions**. 
+- Send membership promotional emails after high value casual rider trips, these are trips over 32 minutes.
 
-- Operations: To optimize operations, we recommend ***adjusting staffing and maintenance schedules to peak demand**, reassessing underutilized stations for better resource allocation, proactively managing fleet availability for weather changes, and **prioritizing maintenance for high-demand bikes** to enhance overall efficiency.
+_Operations_ 
+- To optimize operations, we recommend ***adjusting staffing and maintenance schedules to peak demand**, reassessing underutilized stations for better resource allocation, proactively managing fleet availability for weather changes, and **prioritizing maintenance for high-demand bikes** to enhance overall efficiency.
 
-- Customer Insights: To enhance customer engagement and drive conversions, we recommend **leveraging favorable weather and weekends for special offers**, optimizing routes based on rider preferences, and **implementing flexible pricing strategies** to encourage casual users to transition to memberships.
+_Customer Insights_ 
+- To enhance customer engagement and drive conversions, we recommend **leveraging favorable weather and weekends for special offers**
+- Optimizing routes based on rider preferences, and 
+- **Implementing flexible pricing strategies** to encourage casual users to transition to memberships.
 
-- Finance: To maximize revenue, we recommend **investing in high-performing stations to enhance services**, and prioritizing resources towards classic and electric bikes, which have demonstrated significant profitability.
+_Finance_
+- To maximize revenue, we recommend **investing in high-performing stations to enhance services**
+- Prioritizing resources towards classic and electric bikes, which have demonstrated significant profitability.
